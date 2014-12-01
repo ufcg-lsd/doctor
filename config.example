@@ -1,0 +1,8 @@
+[xmpp]
+jid=abc@domain.com
+password=passpass
+host=127.0.0.1
+port=5222
+
+[doctor]
+components=manager1.domain.com,manager2.domain.com,rendezvous1.domain.com
